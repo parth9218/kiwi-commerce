@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("5c93f95eae7ab83851786d9a"), 
+    "slug" : "", 
+    "meta_title" : "Home", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5c93f95eae7ab83851786d9b"), 
+    "slug" : "checkout", 
+    "meta_title" : "Checkout", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5c93f95eae7ab83851786d9c"), 
+    "slug" : "checkout-success", 
+    "meta_title" : "Thank You!", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5c93f95eae7ab83851786d9d"), 
+    "slug" : "about", 
+    "meta_title" : "About us", 
+    "enabled" : true, 
+    "is_system" : false
+}

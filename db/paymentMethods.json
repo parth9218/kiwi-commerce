@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("5c93f95fae7ab83851786da8"), 
+    "name" : "PayPal", 
+    "enabled" : true, 
+    "conditions" : {
+        "countries" : [
+
+        ], 
+        "shipping_method_ids" : [
+
+        ], 
+        "subtotal_min" : NumberInt(0), 
+        "subtotal_max" : NumberInt(0)
+    }
+}

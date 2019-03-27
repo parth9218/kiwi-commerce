@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("5c93fa3393fd743435381771"), 
+    "date_created" : ISODate("2019-03-21T20:55:15.207+0000"), 
+    "date_updated" : ISODate("2019-03-21T20:58:19.867+0000"), 
+    "image" : "31u5I8A8sfL._SL1000_.jpg", 
+    "name" : "Laptops", 
+    "description" : "", 
+    "meta_description" : "Contains Laptops", 
+    "meta_title" : "Laptops", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(1), 
+    "slug" : "laptops"
+}

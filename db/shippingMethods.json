@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5c93f95fae7ab83851786da7"), 
+    "name" : "Shipping method A", 
+    "enabled" : true, 
+    "conditions" : {
+        "countries" : [
+
+        ], 
+        "states" : [
+
+        ], 
+        "cities" : [
+
+        ], 
+        "subtotal_min" : NumberInt(0), 
+        "subtotal_max" : NumberInt(0), 
+        "weight_total_min" : NumberInt(0), 
+        "weight_total_max" : NumberInt(0)
+    }
+}

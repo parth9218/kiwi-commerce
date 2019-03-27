@@ -1,0 +1,869 @@
+{ 
+    "_id" : ObjectId("5c93fb0293fd743435381772"), 
+    "date_created" : ISODate("2019-03-21T20:58:42.323+0000"), 
+    "date_updated" : ISODate("2019-03-21T22:15:46.089+0000"), 
+    "images" : [
+        {
+            "id" : ObjectId("5c9404df93fd74343538179f"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp13touch-space-gallery1-201807.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9404df93fd7434353817a0"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp13touch-space-gallery2-201807_GEO_US.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9404df93fd7434353817a1"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp13touch-space-gallery3-201610.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9404df93fd7434353817a2"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp13touch-space-gallery4-201610.jpeg"
+        }
+    ], 
+    "dimensions" : {
+        "length" : NumberInt(0), 
+        "width" : NumberInt(0), 
+        "height" : NumberInt(0)
+    }, 
+    "name" : "Macbook Pro 13", 
+    "description" : "<p>A name synonymous with innovation and trust, Apple, introduces the latest Apple 13-inch MacBook Pro Laptop for those who wants to create marvels with their work. Famous for its innovative ideas and approach to modernise the worlds view towards computing, Apple announces this MacBook to be a pro performer in its segment.</p>\n<p>Exciting Features<br />This is a device that does not only you do a fast computing but also connects you with your loved ones over a high-quality video call. The Apple 13-inch MacBook Pro Laptop comes with a 720p Face Time HD Camera which makes sure that the quality of the call does not drop. Also, the backed by a powerful battery this MacBook Pro gives an uninterrupted performance, be it web browsing, streaming songs from iTunes or watching movies. The MacOS Sierra introduces Siri to this device, for voice guided navigation. This adds another point to the accessibility quotient of the MacBook Pro</p>\n<p>Configured to Perform<br />Powered by a 2.3GHz dual-core Intel Core i5 processor makes the Apple 13-inch MacBook Pro Laptop a smooth and lag-free device. Moreover, it comes equipped with Turbo Boost Technology which can boost the speed up to 3.6GHz which comes handy when working with a wide range of data. Also, it comes with a 256GB Solid State Drive to let you save all your favourite photos and videos on this device. So, from now on you don&rsquo;t have to worry about running out of space. Now, when it comes to multitasking, you can rely on its 8GB LPDDR3 onboard memory. This RAM upgrades the MacBook&rsquo;s performance even to some notches.</p>\n<p>Amazing Bright Display<br />This Apple 13-inch MacBook Pro Laptop boasts a wide 13.3-inch Retina Display. Also, this LED Backlit display comes fitted with IPS Panel that provides a wide angle of viewing eliminating the negative vision. Also, it has a 2560 x 1600 resolution and 227 ppi pixel density that reproduces colour at their brightest hues. Enjoy your favourite movies with more dramatic effects now on this vivid display. To enable you to edit professional level photographs and videos, this MacBook Pro has the Intel Iris Plus Graphics 640 processor. This graphics processor makes the images go live on the screen.</p>\n<p>Embrace the Apple 13-inch MacBook Pro Laptop to free yourself from the conventional way of computing and be the change you want to see.</p>", 
+    "meta_description" : "Apple MacBook Pro 13", 
+    "meta_title" : "Macbook Pro 13", 
+    "tags" : [
+
+    ], 
+    "attributes" : [
+        {
+            "name" : "Brand", 
+            "value" : "Apple"
+        }, 
+        {
+            "name" : "Display", 
+            "value" : "13 inch Retina Display"
+        }, 
+        {
+            "name" : "touchbar", 
+            "value" : "yes"
+        }, 
+        {
+            "name" : "memory", 
+            "value" : "8 GB"
+        }
+    ], 
+    "enabled" : true, 
+    "discontinued" : false, 
+    "slug" : "macbook-pro-13", 
+    "sku" : "", 
+    "code" : "", 
+    "tax_class" : "", 
+    "related_product_ids" : [
+
+    ], 
+    "prices" : [
+
+    ], 
+    "cost_price" : NumberInt(0), 
+    "regular_price" : NumberInt(169900), 
+    "sale_price" : NumberInt(0), 
+    "quantity_inc" : NumberInt(1), 
+    "quantity_min" : NumberInt(1), 
+    "weight" : 1.9, 
+    "stock_quantity" : NumberInt(10), 
+    "position" : null, 
+    "date_stock_expected" : null, 
+    "date_sale_from" : null, 
+    "date_sale_to" : null, 
+    "stock_tracking" : false, 
+    "stock_preorder" : false, 
+    "stock_backorder" : false, 
+    "category_id" : ObjectId("5c93fa3393fd743435381771"), 
+    "category_ids" : [
+
+    ], 
+    "options" : [
+        {
+            "id" : ObjectId("5c94013993fd74343538178b"), 
+            "name" : "Colour", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c94014793fd74343538178c"), 
+                    "name" : "Space Grey"
+                }, 
+                {
+                    "id" : ObjectId("5c94014a93fd74343538178d"), 
+                    "name" : "Silver"
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94020093fd74343538178e"), 
+            "name" : "Storage", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(5), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c94020993fd74343538178f"), 
+                    "name" : "256 GB"
+                }, 
+                {
+                    "id" : ObjectId("5c94020c93fd743435381790"), 
+                    "name" : "512 GB"
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94022693fd743435381793"), 
+            "name" : "Processor", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c94023693fd743435381794"), 
+                    "name" : "2.3GHz quad‑core 8th‑generation Intel Core i5 processor"
+                }, 
+                {
+                    "id" : ObjectId("5c94023f93fd743435381795"), 
+                    "name" : "2.7GHz quad‑core 8th‑generation Intel Core i7 processor"
+                }
+            ]
+        }
+    ], 
+    "variants" : [
+        {
+            "id" : ObjectId("5c94025093fd743435381796"), 
+            "sku" : "13‑inch MacBook Pro space_grey, 256 GB, i5", 
+            "price" : NumberInt(123595), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014793fd74343538178c")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020993fd74343538178f")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023693fd743435381794")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c9402ee93fd743435381797"), 
+            "sku" : "13‑inch MacBook Pro silver, 256 GB, i5", 
+            "price" : NumberInt(123595), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014a93fd74343538178d")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020993fd74343538178f")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023693fd743435381794")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94031093fd743435381798"), 
+            "sku" : "13‑inch MacBook Pro space_grey, 256 GB, i7", 
+            "price" : NumberInt(144200), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014793fd74343538178c")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020993fd74343538178f")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023f93fd743435381795")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94032493fd743435381799"), 
+            "sku" : "13‑inch MacBook Pro silver, 256 GB, i7", 
+            "price" : NumberInt(144200), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014a93fd74343538178d")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020993fd74343538178f")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023f93fd743435381795")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94034093fd74343538179a"), 
+            "sku" : "13‑inch MacBook Pro space_grey, 512 GB, i5", 
+            "price" : NumberInt(137000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014793fd74343538178c")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020c93fd743435381790")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023693fd743435381794")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94035893fd74343538179b"), 
+            "sku" : "13‑inch MacBook Pro silver, 512 GB, i5", 
+            "price" : NumberInt(137000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014a93fd74343538178d")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020c93fd743435381790")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023693fd743435381794")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94036c93fd74343538179c"), 
+            "sku" : "13‑inch MacBook Pro space_grey, 512 GB, i7", 
+            "price" : NumberInt(158000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014793fd74343538178c")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020c93fd743435381790")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023f93fd743435381795")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c9403cf93fd74343538179e"), 
+            "sku" : "13‑inch MacBook Pro silver, 512 GB, i7", 
+            "price" : NumberInt(158000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : 1.9, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c94013993fd74343538178b"), 
+                    "value_id" : ObjectId("5c94014a93fd74343538178d")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94020093fd74343538178e"), 
+                    "value_id" : ObjectId("5c94020c93fd743435381790")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94022693fd743435381793"), 
+                    "value_id" : ObjectId("5c94023f93fd743435381795")
+                }
+            ]
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5c94058593fd7434353817a3"), 
+    "date_created" : ISODate("2019-03-21T21:43:33.598+0000"), 
+    "date_updated" : ISODate("2019-03-21T22:16:12.426+0000"), 
+    "images" : [
+        {
+            "id" : ObjectId("5c9409cf93fd7434353817b8"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp13touch-space-gallery1-201807.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9409cf93fd7434353817b9"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp15touch-space-gallery2-201807_GEO_US.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9409cf93fd7434353817ba"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp15touch-space-gallery3-201610.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c9409cf93fd7434353817bb"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp15touch-space-gallery4-201610.jpeg"
+        }
+    ], 
+    "dimensions" : {
+        "length" : NumberInt(0), 
+        "width" : NumberInt(0), 
+        "height" : NumberInt(0)
+    }, 
+    "name" : "Macbook Pro 15", 
+    "description" : "<p>A name synonymous with innovation and trust, Apple, introduces the latest Apple 15-inch MacBook Pro Laptop for those who wants to create marvels with their work. Famous for its innovative ideas and approach to modernise the worlds view towards computing, Apple announces this MacBook to be a pro performer in its segment.</p>\n<p>Exciting Features<br />This is a device that does not only you do a fast computing but also connects you with your loved ones over a high-quality video call. The Apple 15-inch MacBook Pro Laptop comes with a 720p Face Time HD Camera which makes sure that the quality of the call does not drop. Also, the backed by a powerful battery this MacBook Pro gives an uninterrupted performance, be it web browsing, streaming songs from iTunes or watching movies. The MacOS Sierra introduces Siri to this device, for voice guided navigation. This adds another point to the accessibility quotient of the MacBook Pro</p>\n<p>Configured to Perform<br />Powered by a 2.3GHz dual-core Intel Core i5 processor makes the Apple 15-inch MacBook Pro Laptop a smooth and lag-free device. Moreover, it comes equipped with Turbo Boost Technology which can boost the speed up to 3.6GHz which comes handy when working with a wide range of data. Also, it comes with a 256GB Solid State Drive to let you save all your favourite photos and videos on this device. So, from now on you don&rsquo;t have to worry about running out of space. Now, when it comes to multitasking, you can rely on its 8GB LPDDR3 onboard memory. This RAM upgrades the MacBook&rsquo;s performance even to some notches.</p>\n<p>Amazing Bright Display<br />This Apple 15-inch MacBook Pro Laptop boasts a wide 15.3-inch Retina Display. Also, this LED Backlit display comes fitted with IPS Panel that provides a wide angle of viewing eliminating the negative vision. Also, it has a 2560 x 1600 resolution and 227 ppi pixel density that reproduces colour at their brightest hues. Enjoy your favourite movies with more dramatic effects now on this vivid display. To enable you to edit professional level photographs and videos, this MacBook Pro has the Intel Iris Plus Graphics 640 processor. This graphics processor makes the images go live on the screen.</p>\n<p>Embrace the Apple 15-inch MacBook Pro Laptop to free yourself from the conventional way of computing and be the change you want to see.</p>", 
+    "meta_description" : "Apple MacBook Pro 15", 
+    "meta_title" : "Macbook Pro 15", 
+    "tags" : [
+
+    ], 
+    "attributes" : [
+        {
+            "name" : "Brand", 
+            "value" : "Apple"
+        }, 
+        {
+            "name" : "Display", 
+            "value" : "15 inch Retina display"
+        }, 
+        {
+            "name" : "touchbar", 
+            "value" : "yes"
+        }, 
+        {
+            "name" : "memory", 
+            "value" : "16 GB "
+        }
+    ], 
+    "enabled" : true, 
+    "discontinued" : false, 
+    "slug" : "macbook-pro-15", 
+    "sku" : "", 
+    "code" : "", 
+    "tax_class" : "", 
+    "related_product_ids" : [
+
+    ], 
+    "prices" : [
+
+    ], 
+    "cost_price" : NumberInt(0), 
+    "regular_price" : NumberInt(165000), 
+    "sale_price" : NumberInt(0), 
+    "quantity_inc" : NumberInt(1), 
+    "quantity_min" : NumberInt(1), 
+    "weight" : NumberInt(2), 
+    "stock_quantity" : NumberInt(32), 
+    "position" : null, 
+    "date_stock_expected" : null, 
+    "date_sale_from" : null, 
+    "date_sale_to" : null, 
+    "stock_tracking" : false, 
+    "stock_preorder" : false, 
+    "stock_backorder" : false, 
+    "category_id" : ObjectId("5c93fa3393fd743435381771"), 
+    "category_ids" : [
+
+    ], 
+    "options" : [
+        {
+            "id" : ObjectId("5c9406d793fd7434353817a4"), 
+            "name" : "Color", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c9406eb93fd7434353817a5"), 
+                    "name" : "Space Grey"
+                }, 
+                {
+                    "id" : ObjectId("5c9406ed93fd7434353817a6"), 
+                    "name" : "Silver"
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c9406fe93fd7434353817a7"), 
+            "name" : "Storage", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c94070d93fd7434353817a8"), 
+                    "name" : "256 GB"
+                }, 
+                {
+                    "id" : ObjectId("5c94070f93fd7434353817a9"), 
+                    "name" : "512 GB"
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94072193fd7434353817aa"), 
+            "name" : "Processor", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c94075d93fd7434353817ab"), 
+                    "name" : "2.6GHz 6‑core 8th‑generation Intel Core i7 processor"
+                }, 
+                {
+                    "id" : ObjectId("5c94076693fd7434353817ac"), 
+                    "name" : "2.9GHz 6‑core 8th‑generation Intel Core i9 processor"
+                }
+            ]
+        }
+    ], 
+    "variants" : [
+        {
+            "id" : ObjectId("5c94078593fd7434353817ad"), 
+            "sku" : "15‑inch MacBook Pro space grey, 256 GB, i7", 
+            "price" : NumberInt(165000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406eb93fd7434353817a5")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070d93fd7434353817a8")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94075d93fd7434353817ab")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94081393fd7434353817b1"), 
+            "sku" : "15‑inch MacBook Pro silver, 256 GB, i7", 
+            "price" : NumberInt(165000), 
+            "stock_quantity" : NumberInt(10), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406ed93fd7434353817a6")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070d93fd7434353817a8")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94075d93fd7434353817ab")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94083393fd7434353817b2"), 
+            "sku" : "15‑inch MacBook Pro space grey, 512 GB, i7", 
+            "price" : NumberInt(200000), 
+            "stock_quantity" : NumberInt(5), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406eb93fd7434353817a5")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070f93fd7434353817a9")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94075d93fd7434353817ab")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94085693fd7434353817b3"), 
+            "sku" : "15‑inch MacBook Pro silver, 512 GB, i7", 
+            "price" : NumberInt(200000), 
+            "stock_quantity" : NumberInt(2), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406ed93fd7434353817a6")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070f93fd7434353817a9")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94075d93fd7434353817ab")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94087f93fd7434353817b4"), 
+            "sku" : "15‑inch MacBook Pro space grey, 256 GB, i9", 
+            "price" : NumberInt(200000), 
+            "stock_quantity" : NumberInt(1), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406eb93fd7434353817a5")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070d93fd7434353817a8")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94076693fd7434353817ac")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c9408e593fd7434353817b5"), 
+            "sku" : "15‑inch MacBook Pro silver, 256 GB, i9", 
+            "price" : NumberInt(200000), 
+            "stock_quantity" : NumberInt(2), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406ed93fd7434353817a6")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070d93fd7434353817a8")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94076693fd7434353817ac")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94093193fd7434353817b6"), 
+            "sku" : "15‑inch MacBook Pro space grey, 512 GB, i9", 
+            "price" : NumberInt(213000), 
+            "stock_quantity" : NumberInt(1), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406eb93fd7434353817a5")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070f93fd7434353817a9")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94076693fd7434353817ac")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c94094e93fd7434353817b7"), 
+            "sku" : "15‑inch MacBook Pro silver, 512 GB, i9", 
+            "price" : NumberInt(213000), 
+            "stock_quantity" : NumberInt(1), 
+            "weight" : NumberInt(2), 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c9406d793fd7434353817a4"), 
+                    "value_id" : ObjectId("5c9406ed93fd7434353817a6")
+                }, 
+                {
+                    "option_id" : ObjectId("5c9406fe93fd7434353817a7"), 
+                    "value_id" : ObjectId("5c94070f93fd7434353817a9")
+                }, 
+                {
+                    "option_id" : ObjectId("5c94072193fd7434353817aa"), 
+                    "value_id" : ObjectId("5c94076693fd7434353817ac")
+                }
+            ]
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5c940a9793fd7434353817bc"), 
+    "date_created" : ISODate("2019-03-21T22:05:11.970+0000"), 
+    "date_updated" : ISODate("2019-03-21T22:11:56.186+0000"), 
+    "images" : [
+        {
+            "id" : ObjectId("5c940c5c93fd7434353817ca"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "macbook-air-201810-gallery2_GEO_US.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c940c5c93fd7434353817cb"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "macbook-air-201810-gallery3.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c940c5d93fd7434353817cc"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "macbook-air-201810-gallery4.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c940c5d93fd7434353817cd"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "macbook-air-201810-gallery5.jpeg"
+        }, 
+        {
+            "id" : ObjectId("5c940c5d93fd7434353817ce"), 
+            "alt" : "", 
+            "position" : NumberInt(99), 
+            "filename" : "mbp15touch-space-gallery2-201807_GEO_US.jpeg"
+        }
+    ], 
+    "dimensions" : {
+        "length" : NumberInt(0), 
+        "width" : NumberInt(0), 
+        "height" : NumberInt(0)
+    }, 
+    "name" : "Macbook Air", 
+    "description" : "<h3>The new MacBook Air features a stunning Retina display, Touch ID, the latest processor and all-day battery life in a thinner and lighter design.* Available in silver, space grey and gold, the new thinner and lighter MacBook Air features a stunning Retina display, Touch ID, the latest Apple-designed keyboard and a Force Touch trackpad &mdash; all housed in an iconic wedge design made from 100&nbsp;per&nbsp;cent recycled&nbsp;aluminium. And with all-day battery life, MacBook&nbsp;Air is your perfectly portable, do-it-all notebook.*</h3>\n<p>macOS Mojave, inspired by pros but designed for everyone, with Dark Mode, Stacks, easier screenshots, new built-in apps and more.</p>", 
+    "meta_description" : "MacBook Air - New", 
+    "meta_title" : "Macbook Air", 
+    "tags" : [
+
+    ], 
+    "attributes" : [
+        {
+            "name" : "Brand", 
+            "value" : "Apple"
+        }, 
+        {
+            "name" : "Display", 
+            "value" : "13 inch retina display"
+        }, 
+        {
+            "name" : "finger print sensor", 
+            "value" : "yes"
+        }, 
+        {
+            "name" : "memory", 
+            "value" : "8 GB"
+        }
+    ], 
+    "enabled" : true, 
+    "discontinued" : false, 
+    "slug" : "macbook-air", 
+    "sku" : "", 
+    "code" : "", 
+    "tax_class" : "", 
+    "related_product_ids" : [
+
+    ], 
+    "prices" : [
+
+    ], 
+    "cost_price" : NumberInt(0), 
+    "regular_price" : NumberInt(114000), 
+    "sale_price" : NumberInt(0), 
+    "quantity_inc" : NumberInt(1), 
+    "quantity_min" : NumberInt(1), 
+    "weight" : 1.5, 
+    "stock_quantity" : NumberInt(15), 
+    "position" : null, 
+    "date_stock_expected" : null, 
+    "date_sale_from" : null, 
+    "date_sale_to" : null, 
+    "stock_tracking" : false, 
+    "stock_preorder" : false, 
+    "stock_backorder" : false, 
+    "category_id" : ObjectId("5c93fa3393fd743435381771"), 
+    "category_ids" : [
+
+    ], 
+    "options" : [
+        {
+            "id" : ObjectId("5c940b2393fd7434353817bd"), 
+            "name" : "Color", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c940b4093fd7434353817be"), 
+                    "name" : "Rose Gold"
+                }, 
+                {
+                    "id" : ObjectId("5c940b4493fd7434353817bf"), 
+                    "name" : "Silver"
+                }, 
+                {
+                    "id" : ObjectId("5c940b4993fd7434353817c0"), 
+                    "name" : "Space Grey"
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940b6693fd7434353817c1"), 
+            "name" : "Storage", 
+            "control" : "select", 
+            "required" : true, 
+            "position" : NumberInt(0), 
+            "values" : [
+                {
+                    "id" : ObjectId("5c940b6e93fd7434353817c2"), 
+                    "name" : "256 GB"
+                }, 
+                {
+                    "id" : ObjectId("5c940b7093fd7434353817c3"), 
+                    "name" : "512 GB"
+                }
+            ]
+        }
+    ], 
+    "variants" : [
+        {
+            "id" : ObjectId("5c940b7b93fd7434353817c4"), 
+            "sku" : "air sg, 256", 
+            "price" : NumberInt(114000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4993fd7434353817c0")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b6e93fd7434353817c2")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940b9c93fd7434353817c5"), 
+            "sku" : "air silver, 256", 
+            "price" : NumberInt(114000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4493fd7434353817bf")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b6e93fd7434353817c2")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940ba093fd7434353817c6"), 
+            "sku" : "air rg, 256", 
+            "price" : NumberInt(114000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4093fd7434353817be")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b6e93fd7434353817c2")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940ba293fd7434353817c7"), 
+            "sku" : "air sg, 512", 
+            "price" : NumberInt(135000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4993fd7434353817c0")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b7093fd7434353817c3")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940ba693fd7434353817c8"), 
+            "sku" : "air silver, 512", 
+            "price" : NumberInt(135000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b7093fd7434353817c3")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4493fd7434353817bf")
+                }
+            ]
+        }, 
+        {
+            "id" : ObjectId("5c940ba893fd7434353817c9"), 
+            "sku" : "air rg, 512", 
+            "price" : NumberInt(135000), 
+            "stock_quantity" : NumberInt(15), 
+            "weight" : 1.5, 
+            "options" : [
+                {
+                    "option_id" : ObjectId("5c940b6693fd7434353817c1"), 
+                    "value_id" : ObjectId("5c940b7093fd7434353817c3")
+                }, 
+                {
+                    "option_id" : ObjectId("5c940b2393fd7434353817bd"), 
+                    "value_id" : ObjectId("5c940b4093fd7434353817be")
+                }
+            ]
+        }
+    ]
+}
